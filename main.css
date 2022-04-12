@@ -1,0 +1,47 @@
+body {
+background-color: darksalmon;
+}
+img {
+  margin: 50px 500px;
+  opacity: 0.5;
+}
+p {
+ text-align: left;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  float: right;
+  font-style: italic;
+}
+header {
+  text-align: center;
+  color: blue;
+}
+#number-one {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 15;
+border: 10px solid purple;
+margin-bottom: 10px;
+text-align: left;
+}
+#number-two {
+  font-family: cursive;
+  border: 10px solid black;
+  margin-bottom: 10px;
+  text-align: left;
+}
+#number-three {
+  font-family: emojis, 'Lucida Sans Unicode',;
+  border: 10px solid green;
+  margin-bottom: 10px;
+  text-align: left;
+}
+#number-four {
+  font-family: fantasy;
+  border: 10px solid blue;
+  margin-bottom: 10px;
+  text-align: left;
+}

@@ -5,7 +5,7 @@ img {
   margin: 50px 500px;
   opacity: 0.5;
 }
-p {
+article p {
  text-align: left;
 }
 aside {
@@ -19,6 +19,9 @@ aside {
 header {
   text-align: center;
   color: blue;
+  padding: 20px;
+  font-weight: bold;
+  text-decoration: underline;
 }
 #number-one {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
